@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyTask.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+
+            <Button
+                x:Name="EnableDisableBtn"
+                Text="Enable/Disable"
+                Command="{Binding ToggleBooleanVarCommand}"
+                SemanticProperties.Hint="Counts the number of times you click"
+                HorizontalOptions="Center" 
+                IsEnabled="True"
+                />
+
+            <Button
+                x:Name="CounterBtn"
+                Text="{Binding Counter}" 
+                Command="{Binding IncrementVarCommand}"
+                SemanticProperties.Hint="Counts the number of times you click"
+                HorizontalOptions="Center" 
+                IsEnabled="{Binding SecondButtonEnabled}"
+                />
+            
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

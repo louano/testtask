@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TestTask\\Task\\MyTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76F6ED-EA79-48ED-8A3F-FD71088C730D}|MyTask\\MyTask.csproj|d:\\testtask\\task\\mytask\\mytask\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76F6ED-EA79-48ED-8A3F-FD71088C730D}|MyTask\\MyTask.csproj|solutionrelative:mytask\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76F6ED-EA79-48ED-8A3F-FD71088C730D}|MyTask\\MyTask.csproj|d:\\testtask\\task\\mytask\\mytask\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE76F6ED-EA79-48ED-8A3F-FD71088C730D}|MyTask\\MyTask.csproj|solutionrelative:mytask\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76F6ED-EA79-48ED-8A3F-FD71088C730D}|MyTask\\MyTask.csproj|d:\\testtask\\task\\mytask\\mytask\\mytask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE76F6ED-EA79-48ED-8A3F-FD71088C730D}|MyTask\\MyTask.csproj|solutionrelative:mytask\\mytask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76F6ED-EA79-48ED-8A3F-FD71088C730D}|MyTask\\MyTask.csproj|d:\\testtask\\task\\mytask\\mytask\\viewmodel\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76F6ED-EA79-48ED-8A3F-FD71088C730D}|MyTask\\MyTask.csproj|solutionrelative:mytask\\viewmodel\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76F6ED-EA79-48ED-8A3F-FD71088C730D}|MyTask\\MyTask.csproj|d:\\testtask\\task\\mytask\\mytask\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76F6ED-EA79-48ED-8A3F-FD71088C730D}|MyTask\\MyTask.csproj|solutionrelative:mytask\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76F6ED-EA79-48ED-8A3F-FD71088C730D}|MyTask\\MyTask.csproj|d:\\testtask\\task\\mytask\\mytask\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE76F6ED-EA79-48ED-8A3F-FD71088C730D}|MyTask\\MyTask.csproj|solutionrelative:mytask\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "D:\\TestTask\\Task\\MyTask\\MyTask\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "MyTask\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "D:\\TestTask\\Task\\MyTask\\MyTask\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "MyTask\\Resources\\Styles\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T08:55:15.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyTask",
+              "DocumentMoniker": "D:\\TestTask\\Task\\MyTask\\MyTask\\MyTask.csproj",
+              "RelativeDocumentMoniker": "MyTask\\MyTask.csproj",
+              "ToolTip": "D:\\TestTask\\Task\\MyTask\\MyTask\\MyTask.csproj",
+              "RelativeToolTip": "MyTask\\MyTask.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T08:39:55.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\TestTask\\Task\\MyTask\\MyTask\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MyTask\\MauiProgram.cs",
+              "ToolTip": "D:\\TestTask\\Task\\MyTask\\MyTask\\MauiProgram.cs",
+              "RelativeToolTip": "MyTask\\MauiProgram.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:36:15.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "D:\\TestTask\\Task\\MyTask\\MyTask\\ViewModel\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "MyTask\\ViewModel\\MainPageViewModel.cs",
+              "ToolTip": "D:\\TestTask\\Task\\MyTask\\MyTask\\ViewModel\\MainPageViewModel.cs",
+              "RelativeToolTip": "MyTask\\ViewModel\\MainPageViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:00:16.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\TestTask\\Task\\MyTask\\MyTask\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MyTask\\MainPage.xaml.cs",
+              "ToolTip": "D:\\TestTask\\Task\\MyTask\\MyTask\\MainPage.xaml.cs",
+              "RelativeToolTip": "MyTask\\MainPage.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:47:43.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\TestTask\\Task\\MyTask\\MyTask\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MyTask\\MainPage.xaml",
+              "ToolTip": "D:\\TestTask\\Task\\MyTask\\MyTask\\MainPage.xaml",
+              "RelativeToolTip": "MyTask\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T08:32:07.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
